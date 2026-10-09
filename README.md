@@ -62,3 +62,8 @@ New customers often receive inconsistent onboarding. Important details can be mi
 ## What I learned / next steps
 
 This project connects AI-assisted drafting with a structured onboarding process. Next, I would test the checklist with sample data, refine the prompts, and explore whether parts of the workflow could be automated through a CRM or no-code tool.
+## Sample output
+
+
+
+![Onboarding tracker](Screenshot%202026-10-09%20131020.png)
