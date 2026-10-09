@@ -67,3 +67,36 @@ This project connects AI-assisted drafting with a structured onboarding process.
 
 
 ![Onboarding tracker](Screenshot%202026-10-09%20131020.png)
+## Sample AI output
+
+*Fictional customer. Generated with ChatGPT using the prompt above, then reviewed and edited by me.*
+
+### 1. Welcome email
+
+Hello Zenith Heights Compliance Team,
+
+Welcome! We're delighted to have you on board and look forward to supporting your team as you work to improve client compliance tracking.
+
+We understand that reducing missed audit deadlines is an important priority for your team. During onboarding, we'll work together to understand your current process, identify areas for improvement, and establish a practical approach to managing your recurring compliance activities.
+
+As we begin, we'd love to learn more about how your team currently tracks client compliance requirements and manages upcoming audit deadlines.
+
+Warm regards,
+Customer Success Team
+
+### 2. Five-step onboarding checklist
+
+| Step | Action | Expected outcome |
+|---|---|---|
+| 1. Understand the current process | Discuss how the team tracks requirements, monitors deadlines and follows up on outstanding items. | A clear understanding of the existing process and its challenges. |
+| 2. Identify key requirements | Identify the compliance activities, audit deadlines and client information the team needs to track. | An agreed list of essential tracking requirements. |
+| 3. Map the workflow | Document the steps from identifying requirements to completing audit-related activities. | A structured view of the process and potential gaps. |
+| 4. Establish the tracking approach | Agree how activities, responsibilities and deadlines will be recorded and monitored. | An agreed approach that reduces the risk of missed deadlines. |
+| 5. Review and confirm readiness | Review the workflow with the team and agree the next steps. | Alignment on the onboarding plan. |
+
+**How to measure progress:** missed audit deadlines, on-time completion rate, and outstanding compliance items, compared against a baseline.
+
+### 3. Clarifying question
+
+How does your Compliance team currently track client compliance requirements and audit deadlines, for example with spreadsheets, a dedicated system, or a manual process?
+Why this matters; understanding the current approach will help us identify the main gaps, tailor the onboarding process to your team's need and determine the most practical way to reduce missed audit deadlines.
